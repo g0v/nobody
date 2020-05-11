@@ -1,0 +1,5 @@
+- 我是 SeanGau
+- 我的三個關鍵字是 電機, 藝術, 設計
+- 我已同意 [g0v 宣言](https://g0v.tw/zh-TW/manifesto.html)
+- 我已同意 g0v GitHub guideline
+- [x] 我的 Slack 帳號是:  SeanGau

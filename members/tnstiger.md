@@ -1,0 +1,5 @@
+- 我是 Howard
+- 我的三個關鍵字是 口罩地圖、好想工作室、2020 summit 總籌組
+- 我已同意 [g0v 宣言](https://g0v.tw/zh-TW/manifesto.html)
+- 我已同意 g0v GitHub guideline
+- 我的 Slack 帳號是: tnstiger

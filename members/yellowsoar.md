@@ -1,0 +1,6 @@
+- 我是 yellowsoar
+- 我的三個關鍵字是 水利工程, 地理統計, 後端
+- 我已同意 [g0v 宣言](https://g0v.tw/manifesto/)
+- 我已同意 g0v GitHub Guideline
+- 我的 Slack 帳號是: yellowsoar
+- [🗺️ OpenStreetMap user page](https://www.openstreetmap.org/user/yellowsoar)

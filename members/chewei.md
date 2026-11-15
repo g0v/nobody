@@ -1,0 +1,5 @@
+- 我是 chewei
+- 我的三個關鍵字是 揪松團, 空間規劃, civictech.tw
+- 我已同意 [g0v 宣言](https://g0v.tw/manifesto/)
+- 我已同意 g0v GitHub guideline
+- 我的 Slack 帳號是: chewei 哲瑋 _
